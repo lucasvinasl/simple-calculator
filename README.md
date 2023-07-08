@@ -8,8 +8,8 @@ This code implements a basic python calculator. It allows the user to choose fro
 
 Code Summary:
 
-     The "Calsub", Calsub, "Cassub" and "Caldiv" functions are defined to perform corresponding mathematical operations.
-     The main code starts with a loop while the "stop" variable is 0.
+     The "calSOMA", calSUB, "calPROD" and "calDIV" functions are defined to perform corresponding mathematical operations: sum, subtraction, multiplication and division.
+     The main code starts with a loop while the "parada" variable is 0.
          Displays available operation options.
          The user selects an operation by typing the corresponding number.
          Depending on the selected operation, the user is requested to insert two numbers.
